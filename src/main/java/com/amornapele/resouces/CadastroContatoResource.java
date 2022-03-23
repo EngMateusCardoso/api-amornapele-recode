@@ -12,7 +12,6 @@ import com.amornapele.services.CadastroContatoService;
 
 @RestController
 @RequestMapping("/CadastroContato")
-@CrossOrigin("*")
 public class CadastroContatoResource {
 
 	@Autowired

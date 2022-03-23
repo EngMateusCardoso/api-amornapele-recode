@@ -12,7 +12,6 @@ import com.amornapele.services.CadastroMulherService;
 
 @RestController
 @RequestMapping("/CadastroMulher")
-@CrossOrigin("*")
 public class CadastroMulherResource {
 	
 	@Autowired

@@ -12,7 +12,6 @@ import com.amornapele.services.CadastroNewsletterService;
 
 @RestController
 @RequestMapping("/CadastroNewsletter")
-@CrossOrigin("*")
 public class CadastroNewsletterResource {
 
 	@Autowired
