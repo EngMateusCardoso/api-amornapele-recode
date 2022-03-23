@@ -6,7 +6,7 @@ Entrega final do projeto de avaliação do squad 09 do curso de FullStack da Rec
  
  
 ## Vídeo Demo da solução
-
+https://youtu.be/97UgLAUMmC4
 
 ## Link da aplicação funcional 
 https://amornapele.netlify.app/
