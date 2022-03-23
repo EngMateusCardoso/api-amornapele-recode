@@ -12,6 +12,7 @@ import com.amornapele.services.CadastroMulherService;
 
 @RestController
 @RequestMapping("/CadastroMulher")
+@CrossOrigin(origins = "https://amornapele.netlify.app/")
 public class CadastroMulherResource {
 	
 	@Autowired

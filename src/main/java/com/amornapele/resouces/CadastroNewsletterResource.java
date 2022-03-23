@@ -12,6 +12,7 @@ import com.amornapele.services.CadastroNewsletterService;
 
 @RestController
 @RequestMapping("/CadastroNewsletter")
+@CrossOrigin(origins = "https://amornapele.netlify.app/")
 public class CadastroNewsletterResource {
 
 	@Autowired

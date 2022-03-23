@@ -12,6 +12,7 @@ import com.amornapele.services.CadastroEmpresaService;
 
 @RestController
 @RequestMapping("/CadastroEmpresa")
+@CrossOrigin(origins = "https://amornapele.netlify.app/")
 public class CadastroEmpresaResource {
 	
 	@Autowired
